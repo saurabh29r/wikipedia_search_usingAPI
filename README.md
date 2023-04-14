@@ -1,5 +1,5 @@
 # wikipedia_search_usingAPI
-In this Application , fetch data by using an API and fetch methods 
+In this Application , fetched the data by using an API and fetch methods 
 Added the result section dynammically as per results 
 Redirected the result page to new tab.
 
