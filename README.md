@@ -1,7 +1,7 @@
 # wikipedia_search_usingAPI
 In this Application , fetched the data by using an API and fetch methods and
 added the in the result section dynammically as per results 
-redirected the result page to new tab.
+redirected the result page to new tab.adding some
 
 => When user start the browser 
 
