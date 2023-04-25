@@ -4,6 +4,7 @@ let spinnerEl = document.getElementById("spinner");
 
 
 function createAndAppend(results) {
+    // the below object is created to fetch the data and display on screen .
     let {
         title,
         link,
