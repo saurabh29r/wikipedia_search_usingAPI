@@ -16,7 +16,7 @@ function createAndAppend(results) {
     resultItemEl.classList.add("result-item");
     searchResultEl.appendChild(resultItemEl);
 
-    //create an anchor tag for adding a link
+    //create an anchor tag for adding a link also we used target blank because want to open in another tab.
 
     let titleEl = document.createElement("a");
     titleEl.href = link;
