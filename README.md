@@ -2,7 +2,7 @@
 Live link 
 => https://wikipidapp.ccbp.tech/
 
-In this Application , fetched the data by using an API and fetch methods and
+In this Application, fetched the data by using an API and fetch methods and
 added the in the result section dynammically as per results 
 redirected the result page to new tab.
 
